@@ -1,0 +1,9 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+class Building
+class Room
+
+Main *-- Building
+Main *-- Room
+@enduml
